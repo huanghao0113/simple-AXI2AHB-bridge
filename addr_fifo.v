@@ -91,3 +91,4 @@ module addr_fifo(
     assign read_addr_gray_rclk = (read_addr_rclk>>1)^read_addr_rclk;
 
 endmodule 
+//FIXME huanghao
