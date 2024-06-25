@@ -1,4 +1,7 @@
+
+//FIXME
 module ahb_controller(
+
 	input					hclk,
 	input					hresetn,
 	//ahb output
